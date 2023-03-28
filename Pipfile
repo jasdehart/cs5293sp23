@@ -11,6 +11,8 @@ lab = "*"
 numpy = "*"
 pandas = "*"
 jupyterlab = "*"
+spacy = "*"
+scikit-learn = "*"
 
 [dev-packages]
 
